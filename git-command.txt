@@ -1,0 +1,13 @@
+git commit -m "Mai na new printf add kiya hai"
+   55  git status
+   56  git add testing.py
+   57  git status
+   58  git commit -m "Added new printf"
+   59  git status
+   60  git config --global user.name "Arbaj Mangaonkar"
+   61  git config --global user.email "arbajmangaonkar191@gmail.com"
+   62  git commit -m "Added new printf"
+   63  git status
+   64  ll
+   65  rm testing.py
+   66  git restore testing.py
