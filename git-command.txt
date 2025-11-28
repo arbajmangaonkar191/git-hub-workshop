@@ -11,3 +11,4 @@ git commit -m "Mai na new printf add kiya hai"
    64  ll
    65  rm testing.py
    66  git restore testing.py
+   67 history
