@@ -13,3 +13,4 @@ git commit -m "Mai na new printf add kiya hai"
    66  git restore testing.py
    67 history
    68 new file uploading in git hub
+   69 I want to pull file from git-hub
