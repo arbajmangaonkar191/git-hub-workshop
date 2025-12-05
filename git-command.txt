@@ -12,3 +12,4 @@ git commit -m "Mai na new printf add kiya hai"
    65  rm testing.py
    66  git restore testing.py
    67 history
+   68 new file uploading in git hub
